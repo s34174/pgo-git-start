@@ -1,3 +1,14 @@
 #PGP Git Project
+
 Prosty Java projekt dla opanowania Git i Github
-Author: Inesa
+
+#Struktura
+-README.md
+-src/Main.java
+
+#Komendy
+-git init
+-git status
+-git add
+-git commit
+-git push
